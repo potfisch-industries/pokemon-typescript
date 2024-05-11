@@ -17,7 +17,7 @@
     "url": "git+https://github.com/potfisch-industries/pokemon-typescript.git"
   },
   "author": "potfisch-industries",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/potfisch-industries/pokemon-typescript/issues"
   },
