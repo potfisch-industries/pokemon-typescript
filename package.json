@@ -1,6 +1,6 @@
 {
   "name": "pokemon-typescript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "typescript definitions for common pokemon attributes and pokeapi endpoints",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
